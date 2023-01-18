@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, ik ben Aykut</h1>
 <h3 align="center">Een software developer student bij Curio.</h3>
 
-- 🔭 Ik ben bezig met: **Schoolvoetbal Website/App**
+- 🔭 Ik ben momenteel bezig met: **Schoolvoetbal Website/App**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
